@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Wenping Zou / Portfolio"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Wenping Zou"
 description              : &description "Wenping Zou's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,12 +23,12 @@ repository               : "wenping-zou/wenping-zou.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Wenping Zou"
-  pronouns         : "she/her"  
-  bio              : "PhD in CIS"
+  pronouns         : #"she/her"  
+  bio              : "PhD in Computer Information Systems"
   location         : "China"
-  employer         : ""
+  employer         : #""
   uri              : # URL
   email            : "zwp@whu.edu.cn" 
 
