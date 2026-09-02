@@ -20,10 +20,10 @@ Wuhan University, School of Information Management, Wuhan, Hubei, China
 
 Research Interests
 ------
-**Platform Designs**
+**Digital Platforms**
 
-**Artificial Intelligence in Organizations**
+**Artificial Intelligence and Organizational Outcomes**
 
 Research Methods
 ------
-Econometrics, causal inference, machine learning, survey, experiement
+Econometrics, causal inference, machine learning, surveys, experiements
