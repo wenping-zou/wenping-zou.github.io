@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, thank you for visiting my website.  I recently earned my PhD in Computer Information Systems.  I am currently on the 2026 – 2027 job market, actively seeking a tenure-track faculty / industry research position.  Please feel free to reach out to me.
+Hi, thank you for visiting my website.  I recently earned my PhD in Computer Information Systems.  I am currently on the 2026 – 2027 job market, actively seeking a tenure-track faculty / industry research position.  Please feel free to reach out.
 
 Education
 ======
