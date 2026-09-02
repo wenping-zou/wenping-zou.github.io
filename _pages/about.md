@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, thank you for visiting my website.  I recently earned my PhD in Computer Information Systems.  I am actively seeking a [tenure-track faculty / industry research] position.
+Hi, thank you for visiting my website.  I recently earned my PhD in Computer Information Systems.  I am actively seeking a tenure-track faculty / industry research position.
 
 Education
 ======
