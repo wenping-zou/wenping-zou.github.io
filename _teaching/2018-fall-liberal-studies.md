@@ -9,5 +9,5 @@ location: "Wuhan, Hubei, China"
 ---
 
 **Role:** Teaching Assistant (Fall 2018)
-**Enrollment:** 24 students
+**Enrollment:** 24 students<br>
 **Award:** Outstanding Teaching Assistant (top 20%)
